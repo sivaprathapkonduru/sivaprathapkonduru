@@ -21,4 +21,5 @@ Senior Software Engineer | Full Stack Developer | Data & AI Enthusiast
 
 📍 India  
 🔗 GitHub: https://github.com/sivaprathapkonduru
+
 🔗 LinkedIn: https://www.linkedin.com/in/siva-prathap-konduru-899883124/
