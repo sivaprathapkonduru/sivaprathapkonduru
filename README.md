@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Siva Prathap Konduru
 
-<!--
-**sivaprathapkonduru/sivaprathapkonduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Full Stack Developer | Data & AI Enthusiast
 
-Here are some ideas to get you started:
+👨‍💻 7+ years of experience in building scalable enterprise applications  
+🚀 Expertise in Node.js, NestJS, Angular, Microservices, SQL & NoSQL  
+📊 Strong interest in Data Science, Machine Learning & System Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Backend: Node.js, NestJS, Java, Spring Boot
+- Frontend: Angular, TypeScript
+- Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+- Cloud & DevOps: Docker, Kubernetes, AWS
+- Messaging: Kafka, RabbitMQ
+
+## Current Focus
+- Data Science & Machine Learning
+- System Design (LLD & HLD)
+- FAANG Interview Preparation
+
+📍 India  
+🔗 GitHub: https://github.com/sivaprathapkonduru
