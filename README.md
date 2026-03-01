@@ -8,18 +8,20 @@ Senior Software Engineer | Full Stack Developer | Data & AI Enthusiast
 📊 Strong interest in Data Science, Machine Learning & System Design  
 
 ## Tech Stack
-- Backend: Node.js, NestJS, Java, Spring Boot
-- Frontend: Angular, TypeScript
+- Backend: Node.js, NestJS, Python
+- Frontend: Angular, Vue.JS
 - Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
-- Cloud & DevOps: Docker, Kubernetes, AWS
-- Messaging: Kafka, RabbitMQ
+- Cloud & DevOps: Docker, AWS, Github Actions
+- Messaging: RabbitMQ
 
 ## Current Focus
 - Data Science & Machine Learning
-- System Design (LLD & HLD)
+- System Design (LLD & HLD) - DSA
 - FAANG Interview Preparation
 
-📍 India  
+📍 Bangalore, India  
 🔗 GitHub: https://github.com/sivaprathapkonduru
 
 🔗 LinkedIn: https://www.linkedin.com/in/siva-prathap-konduru-899883124/
+
+🔗 LeetCode: https://leetcode.com/u/prathap1041220272/
