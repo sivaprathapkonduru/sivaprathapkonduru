@@ -4,7 +4,7 @@
 Senior Software Engineer | Full Stack Developer | Data & AI Enthusiast
 
 👨‍💻 7+ years of experience in building scalable enterprise applications  
-🚀 Expertise in Node.js, NestJS, Angular, Microservices, SQL & NoSQL  
+🚀 Expertise in Node.js, NestJS, Angular, Microservices, Micro-frontend(MFE), SQL & NoSQL  
 📊 Strong interest in Data Science, Machine Learning & System Design  
 
 ## Tech Stack
